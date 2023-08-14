@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Henrique 👋
+### Olá! Eu sou o Pedro Henrique 😉
 
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 👯 Procuro colaborar com front-end
