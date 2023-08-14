@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou o Pedro Henrique 👋
 
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 👯 Procuro colaborar em front-end
+- 👯 Procuro colaborar com front-end
 - 📫 Contate-me no email: contatopedrosinsen@gmail.com
 - 😄 Pronouns: Ele/Dele
 
