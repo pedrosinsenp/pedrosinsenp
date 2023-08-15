@@ -3,7 +3,6 @@
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 👯 Procuro colaborar com front-end
 - 📫 Contate-me no email: contatopedrosinsen@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
