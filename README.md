@@ -4,7 +4,7 @@
 - 👯 Procuro colaborar com front-end
 - 📫 Contate-me no email: contatopedrosinsen@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
