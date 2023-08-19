@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Henrique 😉
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=400&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro;Bem+vindo+ao+meu+perfil+do+Github!;Desenvolvo+com+front-end)](https://git.io/typing-svg)
 
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 👯 Procuro colaborar com front-end
