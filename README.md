@@ -1,4 +1,4 @@
- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=400&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro;Bem+vindo+ao+meu+perfil+do+Github!;Desenvolvo+com+front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4997&pause=400&color=7228F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Pedro;Sou+apaixonado+por+programa%C3%A7%C3%A3o;Desenvolvo+em+back-end)](https://git.io/typing-svg)
 
 - 🌱 Estudando Python
 - 👯 Procuro colaborar com back-end
