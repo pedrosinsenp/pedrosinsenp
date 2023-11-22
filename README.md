@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Python
 - 👯 Procuro colaborar com back-end
-- 📫 Contate-me no email: contatopedrosinsen@gmail.com
+- 📫 Contate-me no email: pedrosinsenp@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&show_icons=true&theme=transparent)
 
