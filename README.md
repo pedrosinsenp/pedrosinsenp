@@ -8,7 +8,10 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
 - 👯 Procuro colaborar com back-end
 - 📫 Contate-me no email: pedrosinsenp@gmail.com
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href="https://mailto:pedrosinsenp@gmail.com")
+##
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:pedrosinsenp@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_henrique.0011)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&show_icons=true&theme=tokyonight)
 
@@ -16,6 +19,7 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosinsenp&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## Tecnologias que eu uso 📚
 <div style="display: inline_block"><br>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,6 +27,6 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
- ##
+###
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
