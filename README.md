@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=4000&pause=1000&color=244AF7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Pedro;Gosto+de+programar;E+procuro+colaborar+com+back-end)](https://git.io/typing-svg)
 
+<img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 ## Fala aí pessoal! 👋
 Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!
