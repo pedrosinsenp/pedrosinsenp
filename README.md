@@ -8,7 +8,7 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
 - 👯 Procuro colaborar com back-end
 - 📫 Contate-me no email: pedrosinsenp@gmail.com
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:pedrosinsenp@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href="https://mailto:pedrosinsenp@gmail.com")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&show_icons=true&theme=tokyonight)
 
