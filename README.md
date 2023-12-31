@@ -34,4 +34,7 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
 
 ###
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/pedrosinsenp/pedrosinsenp/blob/output/github-contribution-grid-snake.svg)
+ </p>
