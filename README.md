@@ -31,10 +31,3 @@ Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por d
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-###
-
- <p align="center"> 
-
-  ![Snake animation](https://github.com/pedrosinsenp/pedrosinsenp/blob/output/github-contribution-grid-snake.svg)
- </p>
