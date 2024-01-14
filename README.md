@@ -3,7 +3,7 @@
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 ## Fala aí pessoal! 👋
-_Olá, meu nome é Pedro, tenho 15 anos, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!_
+_Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!_
 
 - 🌱 Estudando
 - 👯 Procuro colaborar com back-end
