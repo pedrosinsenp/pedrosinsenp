@@ -8,7 +8,7 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 - 🌱 Estudando
 - 👯 Procuro colaborar com back-end
 - 📫 Contate-me no email: pedrosinsenp@gmail.com
-- 📋 Linkdin: www.linkedin.com/in/pedro-henrique-8467572aa
+- 📋 Linkedin: www.linkedin.com/in/pedro-henrique-8467572aa
 
 ##
 
