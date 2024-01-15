@@ -15,6 +15,7 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 <div>
   <a href="https://instagram.com/pedro_henrique.0011" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:pedrosinsep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/pedro-henrique-8467572aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ###
