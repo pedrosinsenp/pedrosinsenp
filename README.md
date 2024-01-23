@@ -13,10 +13,11 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
         System.out.println("Hello World, my name's Pedro");
 
         boolean coffee = true;
+        String status;
         if (coffee) {
-            String status = "ok";
+            status = "ok";
         } else {
-            String status = "not ok";
+            status = "not ok";
         }
 
         System.out.printf("I'm %s", status);
