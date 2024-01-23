@@ -32,21 +32,28 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 - 📫 Contate-me no email: _pedrosinsenp@gmail.com_
 - 📋 Linkedin: _www.linkedin.com/in/pedro-henrique-8467572aa_
   
-##
-
 <div>
   <a href="https://instagram.com/pedro_henrique.0011" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:pedrosinsep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-###
+<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosinsenp&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosinsenp&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>
 
-<a href="https://github.com/pedrosinsenp">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosinsenp&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/pedrosinsenp?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=pedrosinsenp&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@pedrosinsenp github-readme-stats">
+  </a>
+  <a href="https://github.com/pedrosinsenp?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrosinsenp&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
+
+<br>
 
 ## Tecnologias que eu uso 📚
 <div style="display: inline_block"><br>
