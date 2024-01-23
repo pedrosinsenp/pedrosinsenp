@@ -21,6 +21,8 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
   }
 ```
 
+<hr>
+
 - 🌱 Estudando
 - 👯 Procuro colaborar com back-end
 - 📫 Contate-me no email: _pedrosinsenp@gmail.com_
