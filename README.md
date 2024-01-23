@@ -12,15 +12,11 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
     public static void main(String[] args) {
         System.out.println("Hello World, my name's Pedro");
 
-        boolean coffee = true;
-        String status;
-        if (coffee) {
-            status = "ok";
-        } else {
-            status = "not ok";
+        while(alive) {
+            eat();
+            sleep();
+            code();
         }
-
-        System.out.printf("I'm %s", status);
      }
   }
 ```
@@ -54,6 +50,17 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 </p>
 
 <br>
+
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 🔁 
+
+</br> 
+  🌏 Traveling
+  📚 Learning
+  🎮 Video Games
+  🎧 Listening to Music
+</details>
 
 ## Tecnologias que eu uso 📚
 <div style="display: inline_block"><br>
