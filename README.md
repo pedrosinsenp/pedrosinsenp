@@ -1,15 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=4000&pause=1000&color=244AF7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Pedro;Gosto+de+programar;E+procuro+colaborar+com+back-end)](https://github.com/pedrosinsenp)
+<h1 align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/96326525/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif" alt="hello" width="400px">
+</h1>
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 ## Fala aí pessoal! 👋
 _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!_
 
+```java
+  public class main {
+    public static void main(String[] args) {
+        System.out.println("Hello World, my name's Pedro");
+
+        boolean coffee = true;
+        while (coffee) {
+            String love = "program";
+            System.out.printf("I love %s", love);
+        }
+     }
+  }
+```
+
 - 🌱 Estudando
 - 👯 Procuro colaborar com back-end
 - 📫 Contate-me no email: _pedrosinsenp@gmail.com_
 - 📋 Linkedin: _www.linkedin.com/in/pedro-henrique-8467572aa_
-
+  
 ##
 
 <div>
