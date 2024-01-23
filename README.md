@@ -23,6 +23,16 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
   }
 ```
 
+<details>
+  <summary>
+    Hobbies
+  </summary>
+  🌏 Traveling <br>
+  📚 Learning <br>
+  🎮 Video Games <br>
+  🎧 Listening to Music <br>
+</details>
+
 <hr>
 
 - 🌱 Estudando
@@ -53,16 +63,6 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
-<details>
-  <summary>Hobbies</summary>
-🍽️ 🛌 👨🏻‍💻 🔁 
-
-</br> 
-  🌏 Traveling
-  📚 Learning
-  🎮 Video Games
-  🎧 Listening to Music
-</details>
 
 ## Tecnologias que eu uso 📚
 <div style="display: inline_block"><br>
