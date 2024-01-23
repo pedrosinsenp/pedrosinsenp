@@ -1,6 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/96326525/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif" alt="hello" width="400px">
-</h1>
+</p>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
@@ -49,7 +51,7 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
   </a>
 </p>
 
-<br>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 <details>
   <summary>Hobbies</summary>
