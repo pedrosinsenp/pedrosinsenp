@@ -10,7 +10,7 @@
 _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!_
 
 ```java
-  public class main {
+  public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World, my name's Pedro");
 
