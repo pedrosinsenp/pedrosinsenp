@@ -10,7 +10,7 @@
 _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
 
 - 🌍 **Location:** Brazil, São Paulo
-- 📫 **Contact me by email:** [pedrosinsenp@gmail.com](https://mailto:pedrosinsenp@gmail.com)
+- 📫 **Email:** [pedrosinsenp@gmail.com](mailto:pedrosinsenp@gmail.com)
 - 💻 **Profession:** Back-End Developer
 - 📞 **Phone:** +55 (15) 99192-5067
 
