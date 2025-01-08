@@ -6,8 +6,8 @@
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-## Hello World! 👋
-_Hello, my name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
+# Hello World! 👋
+_My name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
 
 ```java
   public class Main {
@@ -45,19 +45,19 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
 <table>
     <tr>
         <td>
-            <a href="www.github.com/pedrosinsenp">
+            <a href="https://github.com/pedrosinsenp/">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                     height="48" width="48" alt="GitHub" />
             </a>
         </td>
         <td>
-            <a href="www.linkedin.com/in/pedro-henrique-8467572aa">
+            <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                     height="48" width="48" alt="LinkedIn" />
             </a>
         </td>
         <td>
-            <a href="www.instagram.com/pedro_henrique.0011/" target="blank"><img align="center"
+            <a href="https://www.instagram.com/pedro_henrique.0011/" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="instagram" height="48" width="48" /></a>
         </td>
@@ -72,10 +72,8 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
-## Tecnologias que eu uso 📚
+## Technologies I use 🖥️
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
