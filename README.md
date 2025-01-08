@@ -6,7 +6,7 @@
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-# Hello World! 👋
+## About me 👋
 _My name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
 
 ```java
