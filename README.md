@@ -47,18 +47,18 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
             </a>
         </td>
         <td>
-            <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa" target="blank">
+            <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                     height="48" width="48" alt="LinkedIn" />
             </a>
         </td>
         <td>
-            <a href _blank="https://www.instagram.com/pedro_henrique.0011/" target="blank"><img align="center"
+            <a href _blank="https://www.instagram.com/pedro_henrique.0011/"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="instagram" height="48" width="48" /></a>
         </td>
         <td>
-            <a href="mailto:pedrosinsenp@gmail.com" target="blank">
+            <a href="mailto:pedrosinsenp@gmail.com">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                     height="48" width="48" alt="Email" />
             </a>
