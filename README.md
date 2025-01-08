@@ -6,8 +6,8 @@
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-## Fala aí pessoal! 👋
-_Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por desenvolvimento. Atualmente atuo como desenvolvedor back-end, estudo programação desde 2021 e procuro estudar muito mais, gosto muito de criar e ajudar pessoas com seu programas. Tenho alguns repositórios, acessa lá!_
+## Hello World! 👋
+_Hello, my name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
 
 ```java
   public class Main {
@@ -27,7 +27,7 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
   <summary>
     Hobbies
   </summary>
-  🌏 Traveling <br>
+  🚍 Car <br>
   📚 Learning <br>
   🎮 Video Games <br>
   🎧 Listening to Music <br>
@@ -35,34 +35,42 @@ _Olá, meu nome é Pedro, nasci em 2008, e sou um simples garoto apaixonado por 
 
 <hr>
 
-- 🌱 Estudando
-- 👯 Procuro colaborar com back-end
-- 📫 Contate-me no email: _pedrosinsenp@gmail.com_
-- 📋 Linkedin: _www.linkedin.com/in/pedro-henrique-8467572aa_
-  
-<div>
-  <a href="https://instagram.com/pedro_henrique.0011" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedrosinsep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+- 🌱 Studying
+- 🌍 Location: Brazil, São Paulo
+- 📫 Contact me by email: pedrosinsenp@gmail.com
+- 📋 Linkedin: www.linkedin.com/in/pedro-henrique-8467572aa
+- 💻 Profession: Back-End Developer
+- 📞 Phone: +55 (15) 99192-5067
 
-<hr>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosinsenp&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>
-
-<p align="center">
-  <a href="https://github.com/pedrosinsenp?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=pedrosinsenp&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@pedrosinsenp github-readme-stats">
-  </a>
-  <a href="https://github.com/pedrosinsenp?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrosinsenp&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
-  </a>
-</p>
+<table>
+    <tr>
+        <td>
+            <a href="www.github.com/pedrosinsenp">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+                    height="48" width="48" alt="GitHub" />
+            </a>
+        </td>
+        <td>
+            <a href="www.linkedin.com/in/pedro-henrique-8467572aa">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
+                    height="48" width="48" alt="LinkedIn" />
+            </a>
+        </td>
+        <td>
+            <a href="www.instagram.com/pedro_henrique.0011/" target="blank"><img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    alt="instagram" height="48" width="48" /></a>
+        </td>
+        <td>
+            <a href="mailto:pedrosinsenp@gmail.com">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
+                    height="48" width="48" alt="Email" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
-
 
 ## Tecnologias que eu uso 📚
 <div style="display: inline_block"><br>
