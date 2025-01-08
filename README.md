@@ -53,7 +53,7 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
             </a>
         </td>
         <td>
-            <a href _blank="https://www.instagram.com/pedro_henrique.0011/"><img align="center"
+            <a href="https://www.instagram.com/pedro_henrique.0011/"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="instagram" height="48" width="48" /></a>
         </td>
