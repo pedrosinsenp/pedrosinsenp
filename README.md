@@ -7,7 +7,12 @@
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 ## About me 👋
-_My name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
+_Hello, my name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
+
+- 🌍 **Location:** Brazil, São Paulo
+- 📫 **Contact me by email:** [pedrosinsenp@gmail.com](mailto:pedrosinsenp@gmail.com)
+- 💻 **Profession:** Back-End Developer
+- 📞 **Phone:** +55 (15) 99192-5067
 
 ```java
   public class Main {
@@ -32,15 +37,6 @@ _My name is Pedro, I was born in 2008. I currently work as a back-end developer.
   🎮 Video Games <br>
   🎧 Listening to Music <br>
 </details>
-
-<hr>
-
-- 🌱 Studying
-- 🌍 Location: Brazil, São Paulo
-- 📫 Contact me by email: pedrosinsenp@gmail.com
-- 📋 Linkedin: www.linkedin.com/in/pedro-henrique-8467572aa
-- 💻 Profession: Back-End Developer
-- 📞 Phone: +55 (15) 99192-5067
 
 <table>
     <tr>
@@ -70,12 +66,8 @@ _My name is Pedro, I was born in 2008. I currently work as a back-end developer.
     </tr>
 </table>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
-
 ## Technologies I use 🖥️
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python&perline=15)](https://github.com/pedrosinsenp/)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
