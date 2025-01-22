@@ -7,26 +7,14 @@
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 ## About me 👋
-_Hello, my name is Pedro, I was born in 2008. I currently work as a back-end developer. I have some repositories, check them out!_
+_Hello, my name is Pedro, I was born in 2008. I'm currently studying back-end and will soon be studying other languages, frameworks, databases, and always striving for constant evolution.
+I'm open to freelancing in java.
+I have some repositories, check them out!_
 
 - 🌍 **Location:** Brazil, São Paulo
 - 📫 **Email:** [pedrosinsenp@gmail.com](mailto:pedrosinsenp@gmail.com)
 - 💻 **Profession:** Back-End Developer
 - 📞 **Phone:** +55 (15) 99192-5067
-
-```java
-  public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World, my name's Pedro");
-
-        while(alive) {
-            eat();
-            sleep();
-            code();
-        }
-     }
-  }
-```
 
 <details>
   <summary>
@@ -40,12 +28,6 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
 
 <table>
     <tr>
-        <td>
-            <a href="https://github.com/pedrosinsenp/">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-                    height="48" width="48" alt="GitHub" />
-            </a>
-        </td>
         <td>
             <a href="https://www.linkedin.com/in/pedro-henrique-8467572aa">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
@@ -68,6 +50,6 @@ _Hello, my name is Pedro, I was born in 2008. I currently work as a back-end dev
 
 ## Technologies I use 🖥️
 
-[![My Skills](https://skillicons.dev/icons?i=java,python&perline=15)](https://github.com/pedrosinsenp/)
+[![My Skills](https://skillicons.dev/icons?i=java,python,linux&perline=15)](https://github.com/pedrosinsenp/)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
